@@ -1,7 +1,11 @@
 <div align="center">
 
 # Boosting All-in-One Image Restoration via Self-Improved Privilege Learning
-Anonymous Submission
+
+[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun),  [Kui Jiang](https://github.com/kuijiang94), and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
+
+[AIIA Lab](https://aiialabhit.github.io/team/), Faculty of Computing, Harbin Institute of Technology, Harbin 150001, China.
+
 </div>
 
 </div>
